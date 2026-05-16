@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Prácticas de manejo sanitario en bovinos',
+    Description:
+      'Este componente formativo desarrolla competencias en evaluación, identificación, tratamiento y monitoreo del estado sanitario de bovinos. Integra Buenas Prácticas Ganaderas, bioseguridad, bienestar animal y gestión de registros. El aprendiz reconoce signos clínicos, actúa ante emergencias, aplica tratamientos básicos y realiza seguimiento, garantizando un manejo responsable, seguro y conforme a la normativa vigente en sistemas de producción bovina.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,33 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Generalidades de la especie bovina',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Características fisiológicas básicas',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos de producción bovina',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Clasificación de los bovinos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Ciclo productivo',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Importancia económica y productiva',
+            hash: 't_1_5',
           },
         ],
       },
@@ -45,14 +70,234 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Etología bovina (comportamiento animal)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Comportamiento bovino',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Factores que afectan el comportamiento',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Interacción con el entorno',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Conductas normales y anormales',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Respuestas al manejo humano',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Evaluación del estado del animal',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Inspección inicial del animal',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Observación del comportamiento',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Signos vitales y externos',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Identificación de lesiones',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Identificación de enfermedades',
+            hash: 't_3_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Determinación de tratamiento en bovinos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo:
+              'Criterios para determinar cuándo un bovino requiere tratamiento',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Selección de animales para tratamiento',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Evaluación del estado clínico',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Priorización de atención',
+            hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Registro de diagnóstico inicial',
+            hash: 't_4_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Atención y manejo sanitario',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Primeros auxilios',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Medición de signos vitales',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Aplicación de tratamientos básicos',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Aplicación de criterios de bienestar animal',
+            hash: 't_5_4',
+          },
+          {
+            numero: '5.5',
+            titulo: 'Cambios comportamentales post tratamiento',
+            hash: 't_5_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Monitoreo del animal tratado',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Monitoreo del estado del animal tratado',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Seguimiento de la evolución clínica',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Registro de cambios comportamentales',
+            hash: 't_6_3',
+          },
+          {
+            numero: '6.4',
+            titulo: 'Identificación de recaídas',
+            hash: 't_6_4',
+          },
+          {
+            numero: '6.5',
+            titulo: 'Ajuste del tratamiento',
+            hash: 't_6_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Gestión, seguimiento y control',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Manejo de información y trazabilidad',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Registro de información',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Reporte de novedades',
+            hash: 't_7_3',
+          },
+          {
+            numero: '7.4',
+            titulo: 'Resolución de contingencias',
+            hash: 't_7_4',
+          },
+          {
+            numero: '7.5',
+            titulo: 'Control de procesos sanitarios',
+            hash: 't_7_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Normativa, bioseguridad y disposición de residuos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Normativa sanitaria',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.2',
+            titulo: 'Plan de contingencia',
+            hash: 't_8_2',
+          },
+          {
+            numero: '8.3',
+            titulo: 'Protocolos de bioseguridad',
+            hash: 't_8_3',
+          },
+          {
+            numero: '8.4',
+            titulo: 'Disposición de residuos',
+            hash: 't_8_4',
+          },
+          {
+            numero: '8.5',
+            titulo: 'Cumplimiento de requisitos legales',
+            hash: 't_8_5',
+          },
+        ],
       },
     ],
     subMenu: [
