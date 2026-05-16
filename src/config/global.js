@@ -355,14 +355,116 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Bienestar animal',
+      significado:
+        'Condiciones que garantizan salud, confort y ausencia de sufrimiento innecesario en los bovinos.',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'Conjunto de medidas destinadas a prevenir la entrada y propagación de enfermedades en el sistema productivo.',
+    },
+    {
+      termino: 'Bovino',
+      significado:
+        'Animal doméstico rumiante utilizado para la producción de carne, leche o doble propósito.',
+    },
+    {
+      termino: 'Comportamiento',
+      significado:
+        'Respuestas del animal frente a estímulos internos y externos que influyen en su bienestar.',
+    },
+    {
+      termino: 'Contingencia',
+      significado:
+        'Evento sanitario inesperado que requiere acciones inmediatas para su control y manejo.',
+    },
+    {
+      termino: 'Diagnóstico',
+      significado:
+        'Identificación de una enfermedad a partir de la observación de signos clínicos y evaluación del animal.',
+    },
+    {
+      termino: 'Enfermedad',
+      significado:
+        'Alteración del estado normal de salud que afecta el funcionamiento del organismo del bovino.',
+    },
+    {
+      termino: 'Evaluación clínica',
+      significado:
+        'Proceso de revisión del estado del animal mediante observación, signos vitales y análisis de su condición general.',
+    },
+    {
+      termino: 'Manejo sanitario',
+      significado:
+        'Conjunto de prácticas orientadas a prevenir, controlar y tratar enfermedades en bovinos.',
+    },
+    {
+      termino: 'Monitoreo',
+      significado:
+        'Seguimiento continuo del estado de salud del animal para evaluar su evolución y respuesta al tratamiento.',
+    },
+    {
+      termino: 'Normativa sanitaria',
+      significado:
+        'Conjunto de reglas y disposiciones legales que regulan la sanidad y el manejo de los animales.',
+    },
+    {
+      termino: 'Primeros auxilios',
+      significado:
+        'Atención inmediata brindada al animal para estabilizar su condición antes de un tratamiento definitivo.',
+    },
+    {
+      termino: 'Signos vitales',
+      significado:
+        'Indicadores fisiológicos como temperatura, frecuencia cardíaca y respiración que reflejan el estado del animal.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Registro detallado del historial sanitario y productivo de cada animal a lo largo del tiempo.',
+    },
+    {
+      termino: 'Tratamiento',
+      significado:
+        'Aplicación de medidas o medicamentos destinados a controlar o curar enfermedades en bovinos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Federación Colombiana de Ganaderos (FEDEGÁN). (2022). Buenas prácticas ganaderas.',
+      link: 'https://www.fedegan.org.co/programas/buenas-practicas-ganaderas',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2023). Inocuidad en la producción pecuaria primaria y bienestar animal.',
+      link:
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias.aspx',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2024a). Resolución 00008940 de 2024: guía sanitaria de movilización interna.',
+      link:
+        'https://normograma.invima.gov.co/compilacion/docs/resolucion_ica_8940_2024.htm',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2024b). Resolución 00017938 de 2024: requisitos sanitarios para bovinos destinados a exportación.',
+      link:
+        'https://www.ica.gov.co/getattachment/0eda1719-04d5-4780-a2fe-2a2a400693c6/2024R00017938.aspx',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal (OMSA). (2022). Código sanitario para los animales terrestres.',
+      link:
+        'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/codigo-terrestre/',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal (OMSA). (2025). Lista de agentes antimicrobianos de importancia veterinaria para bovinos.',
+      link:
+        'https://www.woah.org/es/documento/technical-reference-document-listing-antimicrobial-agents-veterinary-importance-bovine-animals/',
     },
   ],
   creditos: [
