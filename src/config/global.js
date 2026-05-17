@@ -355,14 +355,116 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Bienestar animal',
+      significado:
+        'Condiciones que garantizan salud, confort y ausencia de sufrimiento innecesario en los bovinos.',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'Conjunto de medidas destinadas a prevenir la entrada y propagación de enfermedades en el sistema productivo.',
+    },
+    {
+      termino: 'Bovino',
+      significado:
+        'Animal doméstico rumiante utilizado para la producción de carne, leche o doble propósito.',
+    },
+    {
+      termino: 'Comportamiento',
+      significado:
+        'Respuestas del animal frente a estímulos internos y externos que influyen en su bienestar.',
+    },
+    {
+      termino: 'Contingencia',
+      significado:
+        'Evento sanitario inesperado que requiere acciones inmediatas para su control y manejo.',
+    },
+    {
+      termino: 'Diagnóstico',
+      significado:
+        'Identificación de una enfermedad a partir de la observación de signos clínicos y evaluación del animal.',
+    },
+    {
+      termino: 'Enfermedad',
+      significado:
+        'Alteración del estado normal de salud que afecta el funcionamiento del organismo del bovino.',
+    },
+    {
+      termino: 'Evaluación clínica',
+      significado:
+        'Proceso de revisión del estado del animal mediante observación, signos vitales y análisis de su condición general.',
+    },
+    {
+      termino: 'Manejo sanitario',
+      significado:
+        'Conjunto de prácticas orientadas a prevenir, controlar y tratar enfermedades en bovinos.',
+    },
+    {
+      termino: 'Monitoreo',
+      significado:
+        'Seguimiento continuo del estado de salud del animal para evaluar su evolución y respuesta al tratamiento.',
+    },
+    {
+      termino: 'Normativa sanitaria',
+      significado:
+        'Conjunto de reglas y disposiciones legales que regulan la sanidad y el manejo de los animales.',
+    },
+    {
+      termino: 'Primeros auxilios',
+      significado:
+        'Atención inmediata brindada al animal para estabilizar su condición antes de un tratamiento definitivo.',
+    },
+    {
+      termino: 'Signos vitales',
+      significado:
+        'Indicadores fisiológicos como temperatura, frecuencia cardíaca y respiración que reflejan el estado del animal.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Registro detallado del historial sanitario y productivo de cada animal a lo largo del tiempo.',
+    },
+    {
+      termino: 'Tratamiento',
+      significado:
+        'Aplicación de medidas o medicamentos destinados a controlar o curar enfermedades en bovinos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Federación Colombiana de Ganaderos (FEDEGÁN). (2022). Buenas prácticas ganaderas.',
+      link: 'https://www.fedegan.org.co/programas/buenas-practicas-ganaderas',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2023). Inocuidad en la producción pecuaria primaria y bienestar animal.',
+      link:
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias.aspx',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2024a). Resolución 00008940 de 2024: guía sanitaria de movilización interna.',
+      link:
+        'https://normograma.invima.gov.co/compilacion/docs/resolucion_ica_8940_2024.htm',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2024b). Resolución 00017938 de 2024: requisitos sanitarios para bovinos destinados a exportación.',
+      link:
+        'https://www.ica.gov.co/getattachment/0eda1719-04d5-4780-a2fe-2a2a400693c6/2024R00017938.aspx',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal (OMSA). (2022). Código sanitario para los animales terrestres.',
+      link:
+        'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/codigo-terrestre/',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal (OMSA). (2025). Lista de agentes antimicrobianos de importancia veterinaria para bovinos.',
+      link:
+        'https://www.woah.org/es/documento/technical-reference-document-listing-antimicrobial-agents-veterinary-importance-bovine-animals/',
     },
   ],
   creditos: [
@@ -370,59 +472,111 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez',
+          cargo: 'Responsable de Línea de Producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Juan José Calderon Gutiérrez',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Javier Ricardo Ortiz Puentes',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XY',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
