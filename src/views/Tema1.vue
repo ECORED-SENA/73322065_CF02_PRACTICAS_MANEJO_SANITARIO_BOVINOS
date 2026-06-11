@@ -142,6 +142,7 @@
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Clasificación de los bovinos
+    p.mb-5 Los bovinos se pueden clasificar según diferentes criterios: 
     p.mb-5 
     AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
       .row(titulo="Por edad y etapa productiva").ajuste-cajaAcordion
@@ -176,11 +177,11 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | #[b #[i Bos taurus]]: razas europeas (ej. Holstein, Angus). 
+              | #[b #[i Bos taurus]]: razas europeas (ej. <i>Holstein</i>, <i>Angus</i>). 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | #[b #[i Bos indicus]]: razas cebuinas (ej. Brahman). 
+              | #[b #[i Bos indicus]]: razas cebuinas (ej. <i>Brahman</i>). 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle

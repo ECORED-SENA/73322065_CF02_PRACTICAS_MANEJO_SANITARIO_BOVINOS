@@ -228,7 +228,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Rumia constante durante el reposo.',
+              texto: 'Rumiación constante durante el reposo.',
               esCorrecta: true,
             },
           ],

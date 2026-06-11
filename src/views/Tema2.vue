@@ -42,11 +42,11 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Detrás del punto → el animal avanza 
+                    | Detrás del punto → el animal avanza. 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Delante del punto → el animal retrocede 
+                    | Delante del punto → el animal retrocede. 
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img16.png', alt='' style="max-width: 500px").m-auto
@@ -64,7 +64,7 @@
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img18.png', alt='' style="max-width: 500px").m-auto
-    p.mb-5 En la siguiente se tabla presentan los comportamientos naturales del bovino y su relevancia dentro de los sistemas productivos:
+    p.mb-5 En la siguiente tabla presentan los comportamientos naturales del bovino y su relevancia dentro de los sistemas productivos:
     .row.justify-content-center.mb-0
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -199,7 +199,7 @@
               .col-12
                 img(src='@/assets/curso/temas/img28.png' ).m-auto
             h4.mb-3.estilo-text Condiciones climáticas
-            p.mb-5.text-center La sombra y ventilación reducen el estrés térmico.
+            p.mb-5.text-center La sombra y la ventilación reducen el estrés térmico.
           .tarjeta.color-acento-botones
             .row.justify-content-center.mb-3
               .col-12
@@ -229,7 +229,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Rumia constante. 
+                  | Rumiación constante. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
