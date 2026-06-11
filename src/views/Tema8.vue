@@ -16,7 +16,7 @@
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 8.1 Normativa sanitaria
     p La normativa sanitaria es el conjunto de disposiciones legales que regulan el manejo animal, la prevención de enfermedades y el uso de insumos veterinarios, garantizando prácticas seguras para los animales, las personas y el entorno.
-    p.mb-5 La normativa sanitaria es fundamental en la producción bovina, y los aspectos fundamentales, se detallan a continuación:
+    p.mb-5 La normativa sanitaria es fundamental en la producción bovina, y los aspectos fundamentales se detallan a continuación:
     .row.justify-content-center.mb-5
       .col-xl-6.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         .caja-3.h-100

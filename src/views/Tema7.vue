@@ -27,7 +27,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Manejo de información y trazabilidad"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/curso/podcast/podcast.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block
@@ -114,7 +114,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[b Enfermedades]: diagnóstico y signos; según el evento.
+                  | #[b Enfermedades]: diagnóstico y signos, según el evento.
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle

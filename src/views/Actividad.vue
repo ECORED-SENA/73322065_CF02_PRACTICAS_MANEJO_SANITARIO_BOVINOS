@@ -20,7 +20,7 @@ export default {
       tema: 'Aplicación de conceptos en sanidad y bienestar bovino.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Fortalecer la comprensión de los conceptos fundamentales del manejo sanitario en bovinos mediante la identificación, análisis y aplicación de conocimientos relacionados con evaluación clínica, tratamiento, monitoreo y cumplimiento de la normativa vigente.',
+        '<b> Objetivo:</b> fortalecer la comprensión de los conceptos fundamentales del manejo sanitario en bovinos mediante la identificación, análisis y aplicación de conocimientos relacionados con evaluación clínica, tratamiento, monitoreo y cumplimiento de la normativa vigente.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -228,7 +228,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Rumiación constante durante el reposo.',
+              texto: 'Rumia constante durante el reposo.',
               esCorrecta: true,
             },
           ],

@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl.mb-4.mb-lg-0
         .caja-1.ajuste-caja-1(data-aos="fade-right")
-          p.mb-0 El registro del diagnóstico inicial es fundamental para la trazabilidad y el control sanitario del hato, ya que permite documentar decisiones y dar seguimiento a la evolución del animal. Debe incluir información clara y oportuna como identificación, fecha, signos clínicos, diagnóstico presuntivo, tratamiento y responsable del registro.
+          p.mb-0 La atención y el manejo sanitario comprenden los procedimientos destinados a intervenir y recuperar al bovino que requiere tratamiento. Estas acciones deben ejecutarse de manera segura y organizada, aplicando técnicas adecuadas, un uso responsable de insumos y cumpliendo normas de bioseguridad y bienestar animal, con el fin de garantizar la eficacia del tratamiento y la protección tanto del animal como del operario.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img55.png", alt="").m-auto
@@ -79,7 +79,7 @@
                     i.fas.fa-check-circle
                   | #[b Rehidratación básica]: suministrar agua o soluciones orales.
     p Estas acciones permiten al operario actuar de manera inmediata ante emergencias, reduciendo el impacto de las lesiones y mejorando las condiciones del animal mientras recibe atención más especializada.
-    p.mb-5 Para facilitar la comprensión del tema, a continuación, se presenta orientaciones de intervención inmediata en situaciones de emergencia.
+    p.mb-5 Para facilitar la comprensión del tema, a continuación, se presentan orientaciones de intervención inmediata en situaciones de emergencia.
     .bg-carrusel
       .px-5
         SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
@@ -117,7 +117,7 @@
         Separador
         #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 5.2 Medición de signos vitales
-        p.mb-5 La medición de signos vitales es esencial para evaluar el estado del animal y monitorear su evolución, permitiendo detectar oportunamente posibles complicaciones. Paso seguido, se expondrá la importancia, parámetros y recomendaciones.
+        p.mb-5 La medición de signos vitales es esencial para evaluar el estado del animal y monitorear su evolución, permitiendo detectar oportunamente posibles complicaciones. A continuación, se expondrá la importancia, parámetros y recomendaciones.
     .row.justify-content-center.mb-0
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         .caja-4.h-100
