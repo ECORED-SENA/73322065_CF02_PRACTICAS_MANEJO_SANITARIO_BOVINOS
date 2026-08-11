@@ -80,24 +80,24 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Pastoreo
-                td.ajuste-border-tabla.texto-left Consumo de forraje
-                td.texto-left Base de la alimentación
+                td.ajuste-border-tabla.texto-left Consumo de forraje.
+                td.texto-left Base de la alimentación.
               tr
                 td.ajuste-border-tabla.texto-left Rumia
-                td.ajuste-border-tabla.texto-left Regurgitación y masticación
-                td.texto-left Favorece la digestión
+                td.ajuste-border-tabla.texto-left Regurgitación y masticación.
+                td.texto-left Favorece la digestión.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Descanso
-                td.ajuste-border-tabla.texto-left Periodos de reposo
-                td.texto-left Recuperación del animal
+                td.ajuste-border-tabla.texto-left Periodos de reposo.
+                td.texto-left Recuperación del animal.
               tr
                 td.ajuste-border-tabla.texto-left Socialización
-                td.ajuste-border-tabla.texto-left Interacción dentro del grupo
-                td.texto-left Mantiene estabilidad social
+                td.ajuste-border-tabla.texto-left Interacción dentro del grupo.
+                td.texto-left Mantiene estabilidad social.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left Desplazamiento
-                td.ajuste-border-tabla.texto-left Movimiento en busca de recursos
-                td.texto-left Adaptación al entorno
+                td.ajuste-border-tabla.texto-left Movimiento en busca de recursos.
+                td.texto-left Adaptación al entorno.
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Factores que afectan el comportamiento
@@ -151,24 +151,24 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Ambientales
-                    td.ajuste-border-tabla.texto-left Calor, ruido
-                    td.texto-left Estrés térmico
+                    td.ajuste-border-tabla.texto-left Calor, ruido.
+                    td.texto-left Estrés térmico.
                   tr
                     td.ajuste-border-tabla.texto-left Nutricionales
-                    td.ajuste-border-tabla.texto-left Falta de alimento
-                    td.texto-left Agresividad
+                    td.ajuste-border-tabla.texto-left Falta de alimento.
+                    td.texto-left Agresividad.
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Sanitarios
-                    td.ajuste-border-tabla.texto-left Enfermedad
-                    td.texto-left Aislamiento
+                    td.ajuste-border-tabla.texto-left Enfermedad.
+                    td.texto-left Aislamiento.
                   tr
                     td.ajuste-border-tabla.texto-left Manejo humano
-                    td.ajuste-border-tabla.texto-left Maltrato
-                    td.texto-left Miedo
+                    td.ajuste-border-tabla.texto-left Maltrato.
+                    td.texto-left Miedo.
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Transporte
-                    td.ajuste-border-tabla.texto-left Hacinamiento
-                    td.texto-left Lesiones
+                    td.ajuste-border-tabla.texto-left Hacinamiento.
+                    td.texto-left Lesiones.
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Interacción con el entorno
@@ -287,16 +287,16 @@
             tbody
               tr
                 td.ajuste-border-tabla.texto-left #[b Aislamiento]
-                td.texto-left Puede indicar enfermedad, dolor o debilidad; el animal se separa del grupo
+                td.texto-left Puede indicar enfermedad, dolor o debilidad; el animal se separa del grupo.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Agresividad]
-                td.texto-left Asociada a estrés, miedo o incomodidad por manejo inadecuado o condiciones ambientales
+                td.texto-left Asociada a estrés, miedo o incomodidad por manejo inadecuado o condiciones ambientales.
               tr
                 td.ajuste-border-tabla.texto-left #[b Inmovilidad]
-                td.texto-left Puede reflejar dolor, lesión o dificultad para desplazarse
+                td.texto-left Puede reflejar dolor, lesión o dificultad para desplazarse.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Vocalización]
-                td.texto-left Expresa ansiedad, estrés, hambre o separación
+                td.texto-left Expresa ansiedad, estrés, hambre o separación.
     Separador
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.5 Respuestas al manejo humano

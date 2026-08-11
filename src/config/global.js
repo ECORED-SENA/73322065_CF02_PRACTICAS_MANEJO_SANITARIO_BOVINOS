@@ -451,12 +451,6 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial de Sanidad Animal (OMSA). (2022). Código sanitario para los animales terrestres.',
-      link:
-        'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/codigo-terrestre/',
-    },
-    {
-      referencia:
         'Organización Mundial de Sanidad Animal (OMSA). (2025). Lista de agentes antimicrobianos de importancia veterinaria para bovinos.',
       link:
         'https://www.woah.org/es/documento/technical-reference-document-listing-antimicrobial-agents-veterinary-importance-bovine-animals/',
@@ -479,7 +473,6 @@ export default {
         },
       ],
     },
-
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
@@ -497,7 +490,6 @@ export default {
         },
       ],
     },
-
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [

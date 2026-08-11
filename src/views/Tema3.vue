@@ -63,29 +63,29 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Postura]
-                td.ajuste-border-tabla.texto-left Erguida, estable
-                td.ajuste-border-tabla.texto-left Encorvada, caída o dificultad para mantenerse
-                td.texto-left Puede indicar dolor, debilidad o enfermedad
+                td.ajuste-border-tabla.texto-left Erguida, estable.
+                td.ajuste-border-tabla.texto-left Encorvada, caída o dificultad para mantenerse.
+                td.texto-left Puede indicar dolor, debilidad o enfermedad.
               tr
                 td.ajuste-border-tabla.texto-left #[b Actividad]
-                td.ajuste-border-tabla.texto-left Activo, alerta
-                td.ajuste-border-tabla.texto-left Letárgico, inmóvil o poco reactivo
-                td.texto-left Posible enfermedad o estrés
+                td.ajuste-border-tabla.texto-left Activo, alerta.
+                td.ajuste-border-tabla.texto-left Letárgico, inmóvil o poco reactivo.
+                td.texto-left Posible enfermedad o estrés.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Pelaje]
-                td.ajuste-border-tabla.texto-left Brillante, limpio
-                td.ajuste-border-tabla.texto-left Opaco, erizado, sucio o sin brillo
-                td.texto-left Indica mala salud o deficiencias nutricionales
+                td.ajuste-border-tabla.texto-left Brillante, limpio.
+                td.ajuste-border-tabla.texto-left Opaco, erizado, sucio o sin brillo.
+                td.texto-left Indica mala salud o deficiencias nutricionales.
               tr
                 td.ajuste-border-tabla.texto-left #[b Secreciones]
-                td.ajuste-border-tabla.texto-left Ausentes
-                td.ajuste-border-tabla.texto-left Presencia nasal, ocular o anormal
-                td.texto-left Posible infección o enfermedad
+                td.ajuste-border-tabla.texto-left Ausentes.
+                td.ajuste-border-tabla.texto-left Presencia nasal, ocular o anormal.
+                td.texto-left Posible infección o enfermedad.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Condición corporal]
-                td.ajuste-border-tabla.texto-left Condición corporal
-                td.ajuste-border-tabla.texto-left Delgadez, debilidad o pérdida de masa
-                td.texto-left Problemas alimenticios o enfermedades
+                td.ajuste-border-tabla.texto-left Adecuada, buen estado nutricional.
+                td.ajuste-border-tabla.texto-left Delgadez, debilidad o pérdida de masa.
+                td.texto-left Problemas alimenticios o enfermedades.
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Observación del comportamiento
@@ -217,34 +217,34 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Heridas]
-                td.ajuste-border-tabla.texto-left Cortes, laceraciones o perforaciones
-                td.ajuste-border-tabla.texto-left Riesgo de infección y pérdida de tejido
-                td.ajuste-border-tabla.texto-left Golpes, objetos cortantes, peleas
-                td.texto-left Limpieza, desinfección y control sanitario
+                td.ajuste-border-tabla.texto-left Cortes, laceraciones o perforaciones.
+                td.ajuste-border-tabla.texto-left Riesgo de infección y pérdida de tejido.
+                td.ajuste-border-tabla.texto-left Golpes, objetos cortantes, peleas.
+                td.texto-left Limpieza, desinfección y control sanitario.
               tr
                 td.ajuste-border-tabla.texto-left #[b Inflamaciones]
-                td.ajuste-border-tabla.texto-left Aumento de volumen en tejidos
-                td.ajuste-border-tabla.texto-left Dolor, incomodidad y limitación funcional
-                td.ajuste-border-tabla.texto-left Infecciones, golpes, procesos internos
-                td.texto-left Evaluación y tratamiento antiinflamatorio
+                td.ajuste-border-tabla.texto-left Aumento de volumen en tejidos.
+                td.ajuste-border-tabla.texto-left Dolor, incomodidad y limitación funcional.
+                td.ajuste-border-tabla.texto-left Infecciones, golpes, procesos internos.
+                td.texto-left Evaluación y tratamiento antiinflamatorio.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Cojera]
-                td.ajuste-border-tabla.texto-left Dificultad o alteración al caminar
-                td.ajuste-border-tabla.texto-left Disminución productiva y movilidad limitada
-                td.ajuste-border-tabla.texto-left Lesiones, problemas podales, infecciones
-                td.texto-left Revisión de extremidades y manejo correctivo
+                td.ajuste-border-tabla.texto-left Dificultad o alteración al caminar.
+                td.ajuste-border-tabla.texto-left Disminución productiva y movilidad limitada.
+                td.ajuste-border-tabla.texto-left Lesiones, problemas podales, infecciones.
+                td.texto-left Revisión de extremidades y manejo correctivo.
               tr
                 td.ajuste-border-tabla.texto-left #[b Lesiones dérmicas]
-                td.ajuste-border-tabla.texto-left Alteraciones en la piel (costras, alopecia)
-                td.ajuste-border-tabla.texto-left Irritación, incomodidad y riesgo sanitario
-                td.ajuste-border-tabla.texto-left Parásitos, infecciones, mala higiene
-                td.texto-left Tratamiento tópico y control de parásitos
+                td.ajuste-border-tabla.texto-left Alteraciones en la piel (costras, alopecia).
+                td.ajuste-border-tabla.texto-left Irritación, incomodidad y riesgo sanitario.
+                td.ajuste-border-tabla.texto-left Parásitos, infecciones, mala higiene.
+                td.texto-left Tratamiento tópico y control de parásitos.
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Problemas podales]
-                td.ajuste-border-tabla.texto-left Daños en pezuñas (grietas, infecciones)
-                td.ajuste-border-tabla.texto-left Dolor y dificultad para desplazarse
-                td.ajuste-border-tabla.texto-left Humedad, mala higiene, desgaste
-                td.texto-left Limpieza, recorte y tratamiento específico
+                td.ajuste-border-tabla.texto-left Daños en pezuñas (grietas, infecciones).
+                td.ajuste-border-tabla.texto-left Dolor y dificultad para desplazarse.
+                td.ajuste-border-tabla.texto-left Humedad, mala higiene, desgaste.
+                td.texto-left Limpieza, recorte y tratamiento específico.
     Separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Identificación de enfermedades

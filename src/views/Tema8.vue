@@ -57,7 +57,7 @@
                   span.fa-li
                     i.fas.fa-check-circle
                   | Requisitos para certificación en BPG.
-    p.mb-5 En la siguiente tabla permite comprender cómo cada componente contribuye al manejo sanitario integral, asegurando la salud de los bovinos, la inocuidad de la producción y el cumplimiento de la normativa vigente.
+    p.mb-5 La siguiente tabla permite comprender cómo cada componente contribuye al manejo sanitario integral, asegurando la salud de los bovinos, la inocuidad de la producción y el cumplimiento de la normativa vigente.
     .row.justify-content-center.mb-0
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")

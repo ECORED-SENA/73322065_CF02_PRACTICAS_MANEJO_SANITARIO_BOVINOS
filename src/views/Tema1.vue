@@ -210,7 +210,6 @@
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Ciclo productivo
-    p.mb-5 El ciclo productivo bovino comprende las etapas desde el nacimiento hasta la producción o sacrificio.
     .row.justify-content-center.align-items-center.mb-0
       .col-xl.mb-4.mb-lg-0
         .caja-1.ajuste-caja-1-1(data-aos="fade-right")
